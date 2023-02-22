@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "w",
+      "surname": "w",
+      "photo": "w",
+      "number": "w",
+      "email": "w",
+      "id": 1
+    },
+    {
+      "name": "wdewd1231231231",
+      "surname": "deww",
+      "photo": "wdwdw",
+      "number": "1235",
+      "email": "qdqwd",
+      "id": 2
+    },
+    {
+      "name": "",
+      "surname": "",
+      "photo": "",
+      "number": "",
+      "email": "",
+      "id": 3
+    },
+    {
+      "name": "3",
+      "surname": "",
+      "photo": "",
+      "number": "",
+      "email": "",
+      "id": 4
+    }
+  ]
+}
